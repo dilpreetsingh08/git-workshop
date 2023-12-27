@@ -6,7 +6,6 @@ Subject: Minutes of the Meeting Submission of the Git & GitHub Workshop organize
  
 The Git and GitHub workshop was held on October 4, 2023 in LT-6 (Mini Campus). 
 
-
     The following points were discussed during the workshop:
 
 1.	Hardik Sachan, the speaker for the workshop, began what Git and GitHub is used for  The Git installation and creation of GitHub accounts were done by the attendees.
